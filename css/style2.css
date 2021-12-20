@@ -532,3 +532,10 @@ $black:    #000; */
 .container-cards-proj .card5 .wrapper-proj:hover img {
     transform: scale(1.15);
 }
+
+#accordion1 .accordion-item .accordion-header:hover button {
+    background-color: lightgrey;
+    font-weight: bolder;
+    padding-left: 50px;
+    transition: .6s ease;
+}
